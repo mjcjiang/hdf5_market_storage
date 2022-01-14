@@ -1,0 +1,14 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+src/FastH5/__init__.py
+src/FastH5/configs.py
+src/FastH5/h5read.py
+src/FastH5/h5write.py
+src/FastH5/utils.py
+src/rdsp_client.egg-info/PKG-INFO
+src/rdsp_client.egg-info/SOURCES.txt
+src/rdsp_client.egg-info/dependency_links.txt
+src/rdsp_client.egg-info/requires.txt
+src/rdsp_client.egg-info/top_level.txt
